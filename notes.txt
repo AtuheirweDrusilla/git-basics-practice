@@ -1,2 +1,4 @@
 Git helps track changes in code.
 GitHub stores repositories online.
+
+Version control helps teams collaborate.
