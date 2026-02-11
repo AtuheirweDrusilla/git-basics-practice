@@ -1,0 +1,2 @@
+Git helps track changes in code.
+GitHub stores repositories online.
